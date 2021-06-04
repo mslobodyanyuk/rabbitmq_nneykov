@@ -54,7 +54,7 @@ _"proc_open(): fork failed - Cannot allocate memory"_
 						
 	composer create-project laravel/laravel rabbitmq_nneykov.loc "^6"
 
-	_+ Сut the contents of the folder up one level and delete the empty one._
+_+ Сut the contents of the folder up one level and delete the empty one._
 
 [(0:30)]( https://youtu.be/K-xzRM6EKHg?t=30 )
 
@@ -246,7 +246,7 @@ OR
 		
 Error: 
 
-_Undefined index:exchange_
+_Undefined index: exchange_
 		
 <https://www.larablocks.com/package/vladimir-yuldashev/laravel-queue-rabbitmq> - Add to the `config/queue.php`.
 
@@ -273,7 +273,9 @@ public function index()
 [(4:40)]( https://youtu.be/K-xzRM6EKHg?t=280 ) `In Browser`:
 
 	127.0.0.1:15672	
+	
 OR
+
 	http://rabbitmq_nneykov.loc:15672/
 		
 	guest	
@@ -285,7 +287,7 @@ OR
 
 ![screenshot of sample]( https://github.com/mslobodyanyuk/rabbitmq_nneykov/blob/master/public/images/7.png )
 
-#### Useful links:
+####Useful links:
 
 Nevyan Neykov
 
