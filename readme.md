@@ -287,7 +287,7 @@ OR
 
 ![screenshot of sample]( https://github.com/mslobodyanyuk/rabbitmq_nneykov/blob/master/public/images/7.png )
 
-####Useful links:
+#### Useful links:
 
 Nevyan Neykov
 
